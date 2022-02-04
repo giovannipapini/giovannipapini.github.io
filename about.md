@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# My Expertise
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm a Data Engineer, former Data Scientist, Data Analyst, Data *Something*. I always have been interested in Data Engineering/Science as a way to combine statistical modeling and technical expertise for process support and optimization. I achieved a MSc in Statistics at the University of Florence and implemented models to be applied both in banking and industrial context.
