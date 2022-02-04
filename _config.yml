@@ -21,7 +21,7 @@
 title: Giovanni Papini
 email: giovannipapini.dev@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Simple presentation page for me, Giovanni Papini
+  Personal website, built with with Jekyll and :heart:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://giovannipapini.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gpapini_
@@ -31,6 +31,7 @@ github_username:  giovannipapini
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
